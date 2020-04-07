@@ -1,0 +1,38 @@
+{
+  "orders": [
+    {
+      "itemId": "1298152983123",
+      "username": "admin",
+      "id": "1586256274255"
+    },
+    {
+      "itemId": "4298152983123",
+      "username": "user",
+      "id": "1586256277955"
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": "1586258450656"
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "id": "1586259078603"
+    }
+  ],
+  "products": [
+    {
+      "name": "item1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor nunc sit amet tempor tempus.",
+      "id": "1298152983123"
+    },
+    {
+      "name": "item2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras auctor nunc sit amet tempor tempus.",
+      "id": "4298152983123"
+    }
+  ]
+}
